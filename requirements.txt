@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-ultralytics
 opencv-python-headless
+ultralytics
 numpy
 scikit-learn
 python-multipart
